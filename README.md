@@ -34,6 +34,7 @@ apk下载地址   https://www.pgyer.com/lrhP
 **基础环境**
 
 Flutter version 3.0.5
+Android Kola
 
 <br/>
 <br/>
